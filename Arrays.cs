@@ -1,5 +1,5 @@
 ﻿//// Level 1 - Fundamentals (Indexing & Loops)
-int[] arr1 = { 3, -10, 2, 7, -1, -5, 6, -6, 2, 1, 9, -5, 7, 4 };
+//int[] arr1 = { 3, -10, 2, 7, -1, -5, 6, -6, 2, 1, 9, -5, 7, 4 };
 
 //// Print Elements
 //// Given an integer array, print all elements in order.
