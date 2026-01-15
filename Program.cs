@@ -1,10 +1,10 @@
-﻿namespace GettingStartedCSharp;
-public class Program
-{
-    public static void Main(string[] args)
-    {
+﻿//namespace GettingStartedCSharp;
+//public class Program
+//{
+//    public static void Main(string[] args)
+//    {
 
-    }
-}
+//    }
+//}
 
 
